@@ -1,0 +1,11 @@
+1.  First of all we need to enable the 'mailing from less secure app ' on the sender's google account.
+
+2. There is a file zoororisaman.py ... input your email and password in the fields provided in there.
+
+3. (in mail.py )Make a list of names and emails in the variables recipent_name and recipent_mail .. You can also use pandas to create the df from large files.
+
+4. Now if the setup is done correctly ... You need to run the mail.py file.
+
+5. After the process is completed .. a response.txt will be created showing the mails which are sent successfully.
+
+6. Even if there a unknown runtime err.. don't worry you can refer to successfully sent mails in the respoonse file. 
